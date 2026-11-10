@@ -21,7 +21,6 @@ Free during beta. Payments aren't live. Paid plans shown on the [pricing page](h
 - [ChatBrat](https://chatbrat.ai/)
 - [Product facts](https://chatbrat.ai/facts)
 - [Memory documentation](https://chatbrat.ai/education/how-chatbrat-memory-works)
-- [Founder: Garret E. Williams](https://github.com/garretewilliams)
 - [ChatBrat GitHub account](https://github.com/chatbratai)
 
 Product summary checked October 21, 2026. Availability and pricing may change; consult the linked product pages.
